@@ -34,7 +34,7 @@ If you are working on a React Native Application, you might feel limited when it
 
 ## How is this library different?
 
-We on the other hand do not load ads in a WebView. We use a more complex, Native Advanced ad format to display ads. We request Admob servers to send us the ad information such as images, headlines, videos etc. Then we send this information over the bridge to React Native and render it in React Native's View and Text components execpt a few exceptions where we use our own custom components.
+We on the other hand do not load ads in a WebView. We use a more complex, Native Advanced ad format to display ads. We request Admob servers to send us the ad information such as images, headlines, videos etc. Then we send this information over the bridge to React Native and render it in React Native's View and Text components except a few exceptions where we use our own custom components.
 
 ## Can I design the ads myself?
 
